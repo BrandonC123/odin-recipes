@@ -1,18 +1,22 @@
 body {
     background-color: #6F81A6;
 }
+
 img {
     height: auto;
     width: 400px;
 }
+
 .text {
     text-align: center;
     color: #D5E5F2;
     font-weight: 800;
 }
+
 .header {
     color: #A4BFBD;
 }
+
 image {
     text-align: center;
 }
